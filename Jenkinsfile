@@ -1,4 +1,4 @@
-@Library('custom-shared-library') _
+@Library('custom-shared-lib') _
 
 def config = [
     projectName: 'backend-helloworld',
